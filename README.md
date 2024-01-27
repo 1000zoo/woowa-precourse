@@ -6,3 +6,4 @@
 | 2 주차 | [레이싱카](https://github.com/1000zoo/java-racingcar-6/tree/1000zoo) |
 | 3 주차 | [로또](https://github.com/1000zoo/java-lotto-6/tree/1000zoo)         |
 | 4 주차 | [크리스마스 프로모션](https://github.com/1000zoo/java-christmas-6-1000zoo)|
+| 최종 코딩테스트 | [개발자 비상근무](https://github.com/1000zoo/java-oncall-6-1000zoo)|
